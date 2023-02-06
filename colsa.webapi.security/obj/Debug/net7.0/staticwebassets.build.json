@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "23icMRdBbEBle/bR71KK8EnAjM+tP+VuoDoLBe3tnmc=",
+  "Source": "colsa.webapi.security",
+  "BasePath": "_content/colsa.webapi.security",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

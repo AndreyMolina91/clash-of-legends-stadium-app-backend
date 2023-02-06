@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\colsa.webapi.security.props" />
+</Project>
